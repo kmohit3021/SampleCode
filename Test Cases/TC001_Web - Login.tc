@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Web - Login</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cfdd829a-2a16-4f56-b824-5a3ff6517014</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ea70fd86-2d67-4b9b-9c8b-9ececd74843d</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>5-7</value>
+      </iterationEntity>
+      <testDataId>Data Files/LgnTestData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ea70fd86-2d67-4b9b-9c8b-9ececd74843d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>usr</value>
+      <variableId>360ea9a4-7c3a-4b2e-a426-a1684766f679</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ea70fd86-2d67-4b9b-9c8b-9ececd74843d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>pwd</value>
+      <variableId>63d4f8bb-9dae-42af-b4bf-5c4ee7e6ef7c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Mohit Default'</defaultValue>
+      <description></description>
+      <id>360ea9a4-7c3a-4b2e-a426-a1684766f679</id>
+      <masked>false</masked>
+      <name>usr</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password@123'</defaultValue>
+      <description></description>
+      <id>63d4f8bb-9dae-42af-b4bf-5c4ee7e6ef7c</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>

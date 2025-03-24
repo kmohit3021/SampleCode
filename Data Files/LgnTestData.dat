@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>LgnTestData</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>b8aac0ca-b9f2-4979-af89-e2b296442891</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+<internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>usr</name>
+      <size>2</size>
+   </internalDataColumns>
+<internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>pwd</name>
+      <size>2</size>
+   </internalDataColumns>
+
+<data>Hhmmh+Maahmr Pass%4097599</data>
+<data>Otthh+Aahmrr Pass%4018332</data>
+<data>Omith+Hsaaaa Pass%4047092</data>
+<data>Mmttt+Sasaaa Pass%4099354</data>
+<data>Ooito+Aahrah Pass%4077309</data>
+<data>Mioim+Rmasma Pass%4059792</data>
+<data>Mtmoh+Harsas Pass%4090035</data>
+<data>Hhoom+Shsrmr Pass%4020953</data>
+<data>Mmitm+Raaaaa Pass%4047531</data>
+<data>Ioiii+Amsram Pass%4057696</data>
+
+<isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
